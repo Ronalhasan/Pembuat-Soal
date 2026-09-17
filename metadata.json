@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Pembuat Soal",
+  "description": "Aplikasi Pembuat Soal lengkap untuk jenjang SMA/MA/SMK dengan kisi-kisi, kunci jawaban terpisah, kartu soal, ekspor doc, dan kuis HTML interaktif by Ronal Hasan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
